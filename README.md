@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![codewars](https://www.codewars.com/users/nikoeremeev/badges/large)](https://www.codewars.com/users/nikoeremeev)
+
 ![](https://komarev.com/ghpvc/?username=nikoeremeev)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
