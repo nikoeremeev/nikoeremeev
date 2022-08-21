@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=nikoeremeev)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nikoeremeev)](https://github.com/nikoeremeev/github-readme-activity-graph)
