@@ -4,6 +4,13 @@
 ### My name is Nikolay!
 ---
 
+- 🌱 I’m currently learning **Python, JAVA, SQL**
+
+- 👨‍💻 All of my projects are available at <a href="https://github.com/nikoeremeev?tab=repositories">my repositories</a>
+
+- 📫 How to reach me:
+   -  Email: **nikoeremeev@gmail.com**
+   -  Telegram: <a href="https://t.me/nikoeremeev" target="_blank">@nikoeremeev</a> 
 <!--
 **nikoeremeev/nikoeremeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
